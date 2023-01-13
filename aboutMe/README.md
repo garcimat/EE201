@@ -1,7 +1,8 @@
-## Mathew Garcia-Medina
+# Mathew Garcia-Medina
 
-# Major:
+## Major:
 - Electrical & Computer Engineering
+
 	-Concentrations: Machine Learning & Embedded Systems
 
 1. I have a cat named Leo
