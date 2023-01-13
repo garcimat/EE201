@@ -1,11 +1,13 @@
-# Mathew Garcia-Medina
-A
+## Mathew Garcia-Medina
+
+# Major:
+- Electrical & Computer Engineering
+	-Concentrations: Machine Learning & Embedded Systems
+
 1. I have a cat named Leo
 
 2. I sing in the choir at my church
 
-3. I am concentrating on Embedded Systems and Machine Learning
+3. I bowl on my free time!
 
-4. I bowl on my free time!
-
-5. I also like apples
+4. My favorite food is **Birria**
